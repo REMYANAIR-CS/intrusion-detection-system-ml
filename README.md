@@ -67,4 +67,4 @@ Run locally:
 Deep learning models (CNN, LSTM), live traffic capture, feature selection, hybrid models, explainability with SHAP and LIME.
 
 ## Author
-Remya R Nair · Ph.D. Scholar, Amrita Vishwa Vidyapeetham, Bengaluru · [LinkedIn link]
+Remya R Nair 
