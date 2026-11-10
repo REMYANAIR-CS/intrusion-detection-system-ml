@@ -1,5 +1,4 @@
-# intrusion-detection-system-ml
-Machine learning based network intrusion detection system using Python and scikit-learn
+
 # Multi-Class Intrusion Detection System using Machine Learning (IDS2025)
 
 A machine learning based network intrusion detection system that classifies traffic into seven classes (Normal, Botnet ARES, Brute Force, DoS/DDoS, Infiltration, PortScan, Web Attack), with a Streamlit web app for batch prediction and analysis.
